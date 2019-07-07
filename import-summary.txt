@@ -1,0 +1,91 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\uiDesigner.xml
+* .idea\workspace.xml
+* Tractor_3D.iml
+* ant.properties
+* build.xml
+* out\
+* out\production\
+* out\production\Tractor_3D\
+* out\production\Tractor_3D\Tractor_3D.apk
+* out\production\Tractor_3D\Tractor_3D.unaligned.apk
+* out\production\Tractor_3D\org\
+* out\production\Tractor_3D\org\dedula228\
+* out\production\Tractor_3D\org\dedula228\tractor\
+* out\production\Tractor_3D\org\dedula228\tractor\BuildConfig.class
+* out\production\Tractor_3D\org\dedula228\tractor\Core.class
+* out\production\Tractor_3D\org\dedula228\tractor\GLObject.class
+* out\production\Tractor_3D\org\dedula228\tractor\MainActivity$1.class
+* out\production\Tractor_3D\org\dedula228\tractor\MainActivity$2.class
+* out\production\Tractor_3D\org\dedula228\tractor\MainActivity$3.class
+* out\production\Tractor_3D\org\dedula228\tractor\MainActivity$4$1$1.class
+* out\production\Tractor_3D\org\dedula228\tractor\MainActivity$4$1.class
+* out\production\Tractor_3D\org\dedula228\tractor\MainActivity$4.class
+* out\production\Tractor_3D\org\dedula228\tractor\MainActivity$5.class
+* out\production\Tractor_3D\org\dedula228\tractor\MainActivity$6.class
+* out\production\Tractor_3D\org\dedula228\tractor\MainActivity$7.class
+* out\production\Tractor_3D\org\dedula228\tractor\MainActivity$8.class
+* out\production\Tractor_3D\org\dedula228\tractor\MainActivity.class
+* out\production\Tractor_3D\org\dedula228\tractor\R$attr.class
+* out\production\Tractor_3D\org\dedula228\tractor\R$drawable.class
+* out\production\Tractor_3D\org\dedula228\tractor\R$id.class
+* out\production\Tractor_3D\org\dedula228\tractor\R$layout.class
+* out\production\Tractor_3D\org\dedula228\tractor\R$raw.class
+* out\production\Tractor_3D\org\dedula228\tractor\R$string.class
+* out\production\Tractor_3D\org\dedula228\tractor\R.class
+* out\production\Tractor_3D\org\dedula228\tractor\Vec3.class
+* out\production\Tractor_3D\org\dedula228\tractor\objects\
+* out\production\Tractor_3D\org\dedula228\tractor\objects\ABLabel.class
+* out\production\Tractor_3D\org\dedula228\tractor\objects\OrientationLine.class
+* out\production\Tractor_3D\org\dedula228\tractor\objects\Plane.class
+* out\production\Tractor_3D\org\dedula228\tractor\objects\RouteLine.class
+* out\production\Tractor_3D\org\dedula228\tractor\objects\Tractor.class
+* out\production\Tractor_3D\org\dedula228\tractor\objects\Trail.class
+* out\production\Tractor_3D\org\dedula228\tractor\util\
+* out\production\Tractor_3D\org\dedula228\tractor\util\Assets.class
+* out\production\Tractor_3D\org\dedula228\tractor\util\OBJModel$Face.class
+* out\production\Tractor_3D\org\dedula228\tractor\util\OBJModel$Material.class
+* out\production\Tractor_3D\org\dedula228\tractor\util\OBJModel$ModelPart.class
+* out\production\Tractor_3D\org\dedula228\tractor\util\OBJModel.class
+* out\production\Tractor_3D\org\dedula228\tractor\util\Utils.class
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

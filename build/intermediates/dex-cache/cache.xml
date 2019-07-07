@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Disk_D\Tractor_3D_kr1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4633a70f549a8105c03038f4160e786876b4a322">
+        <dex dex="C:\Disk_D\Tractor_3D_kr1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b6ce987ad85c41060f38d2917aa758801b47a358\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Disk_D\Tractor_3D_kr1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="154f69c475e7466aa49e9ac6fd22119e4e35f8fe">
+        <dex dex="C:\Disk_D\Tractor_3D_kr1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a12bb5a236eb844dfd28552d4b669a773b029ba3\classes.dex" />
+    </item>
+
+</items>

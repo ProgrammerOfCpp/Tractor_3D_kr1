@@ -1,0 +1,468 @@
+[
+    {
+        "outputFile": "C:\\Disk_D\\Tractor_3D_kr1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 31,
+                    "endOffset": 82
+                },
+                "from": {
+                    "file": "C:\\Disk_D\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 31,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 87,
+                    "endColumn": 35,
+                    "endOffset": 118
+                },
+                "from": {
+                    "file": "C:\\Disk_D\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 35,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 123,
+                    "endColumn": 47,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "C:\\Disk_D\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 47,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 31,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "C:\\Disk_D\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 31,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 35,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "C:\\Disk_D\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 35,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 37,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "C:\\Disk_D\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 37,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 39,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "C:\\Disk_D\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 39,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 47,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "C:\\Disk_D\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 47,
+                        "endOffset": 547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 45,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "C:\\Disk_D\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 45,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endColumn": 38,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "C:\\Disk_D\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 38,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 44,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "C:\\Disk_D\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 44,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 43,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "C:\\Disk_D\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 43,
+                        "endOffset": 405
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\artye\\Documents\\IdeaProjects\\Tractor_3D_kr1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 31,
+                    "endOffset": 82
+                },
+                "from": {
+                    "file": "C:\\Users\\artye\\Documents\\IdeaProjects\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 31,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 87,
+                    "endColumn": 35,
+                    "endOffset": 118
+                },
+                "from": {
+                    "file": "C:\\Users\\artye\\Documents\\IdeaProjects\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 35,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 123,
+                    "endColumn": 47,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "C:\\Users\\artye\\Documents\\IdeaProjects\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 47,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 31,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "C:\\Users\\artye\\Documents\\IdeaProjects\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 31,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 35,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "C:\\Users\\artye\\Documents\\IdeaProjects\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 35,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 37,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "C:\\Users\\artye\\Documents\\IdeaProjects\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 37,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 39,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "C:\\Users\\artye\\Documents\\IdeaProjects\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 39,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 47,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "C:\\Users\\artye\\Documents\\IdeaProjects\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 47,
+                        "endOffset": 547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 45,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "C:\\Users\\artye\\Documents\\IdeaProjects\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 45,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endColumn": 38,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "C:\\Users\\artye\\Documents\\IdeaProjects\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 38,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 44,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "C:\\Users\\artye\\Documents\\IdeaProjects\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 44,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 43,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "C:\\Users\\artye\\Documents\\IdeaProjects\\Tractor_3D_kr1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 43,
+                        "endOffset": 405
+                    }
+                }
+            }
+        ]
+    }
+]

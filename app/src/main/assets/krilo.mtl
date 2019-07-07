@@ -1,0 +1,12 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl VR_CarPaint_Green
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.266667 0.082353
+Ks 0.066667 0.109804 0.054902
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

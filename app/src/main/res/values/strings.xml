@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tractor_3D</string>
+    <string name="gas">Gas</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="a_b">A/B</string>
+    <string name="zoom">Zoom-</string>
+    <string name="zoom_plus">Zoom-</string>
+    <string name="zoom_minus">Zoom+</string>
+    <string name="trail_on">Trail ON</string>
+    <string name="trail_off">Trail OFF</string>
+</resources>
